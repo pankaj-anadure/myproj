@@ -1,7 +1,10 @@
 public class B
 {
 	public void demo()
-	{
-		System.out.println("Just for Demo");
+	{		
+		for(int i=1; i<=5; i++)
+		{
+			System.out.println("Just for Demo : "+i);
+		}
 	}
 }
